@@ -1,0 +1,3 @@
+devbusinesscorp.s3-sa-east-1.amazonaws.com
+key.vlab.takeover.092935999311009
+businesscorp.home.blog
