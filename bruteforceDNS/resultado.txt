@@ -1,0 +1,13 @@
+rh.businesscorp.com.br has address 37.59.174.229
+www.businesscorp.com.br has address 37.59.174.225
+mail.businesscorp.com.br has address 37.59.174.227
+dev.businesscorp.com.br is an alias for devbusinesscorp.s3-sa-east-1.amazonaws.com.
+devbusinesscorp.s3-sa-east-1.amazonaws.com is an alias for s3-r-w.sa-east-1.amazonaws.com.
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.234.32
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.233.185
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.233.171
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.232.137
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.232.7
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.234.199
+s3-r-w.sa-east-1.amazonaws.com has address 52.95.165.15
+s3-r-w.sa-east-1.amazonaws.com has address 3.5.233.164
